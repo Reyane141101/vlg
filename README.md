@@ -1,12 +1,17 @@
-# vlg
+# VLG TPs et Projet final
 
-Installation
+### Installation
+
 Cloner le dépôt :
-    git clone https://github.com/votre-utilisateur/vlg.git
-    cd vlg
+```bash
+git clone https://github.com/votre-utilisateur/vlg.git
+```
+```bash
+cd vlg
+```
+Vous trouverez dans les fichiers .ipynb l'implémentation des algorithmes de recherches de tiques.
 
-Vous trouverez dans les fichiers .ipynb l'implémentation des algorithmes de recherches de tiques
-
-Habib Adoum Mandazou
-Joseph Durand
-Reyane En-nabty
+Auteurs :
+- **Habib Adoum Mandazou**
+- **Joseph Durand**
+- **Reyane En-nabty**
